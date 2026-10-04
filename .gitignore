@@ -1,0 +1,16 @@
+# binarios y objetos
+*.exe
+*.dll
+*.obj
+*.o
+# datos locales (grandes o privados)
+*.tsv
+*.gz
+brain_estado.txt
+winners.txt
+*.log
+# referencia upstream (no se publica)
+repo/
+# temporales
+*.tmp
+*.bak
